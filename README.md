@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6F6FF7&center=true&vCenter=true&width=435&lines=+I'm+Ayodhya+Wijesekara;Full+Stack+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6F6FF7&center=true&vCenter=true&width=435&lines=+I'm+Ayodhya+Wijesekara;Full+Stack+Engineer;Problem+Solver;Tech+Enthusiast;>NET+ React" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Building Scalable Solutions with Modern Technologies</h3>
