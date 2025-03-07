@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello World! I'm Ayodhya Wijesekara</h1>
-<h3 align="center">🚀 Fullstack Developer | ☁️ Cloud Enthusiast | 🇱🇰 Sri Lanka</h3>
+<h1 align="center">👋 Ayodhya Wijesekara</h1>
+<h3 align="center">🚀 Fullstack Developer | 🇱🇰 Sri Lanka</h3>
 
 <p align="center">
   <a href="mailto:ayodhyadeshad9896@gmail.com">
