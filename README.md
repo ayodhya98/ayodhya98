@@ -50,7 +50,6 @@
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ayodhya98&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ayodhya98&theme=radical" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayodhya98&layout=compact&theme=radical&langs_count=6" />
 </p>
 
