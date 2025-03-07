@@ -3,11 +3,7 @@
 
 - 📫 How to reach me **ayodhyadeshad9896@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deshad wijesekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deshad wijesekara" height="30" width="40" /></a>
-<a href="https://instagram.com/ayodesh_9896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayodesh_9896" height="30" width="40" /></a>
-</p>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -42,3 +38,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayodhya98&show_icons=true&locale=en" alt="ayodhya98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayodhya98&" alt="ayodhya98" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/deshad wijesekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deshad wijesekara" height="30" width="40" /></a>
+<a href="https://instagram.com/ayodesh_9896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayodesh_9896" height="30" width="40" /></a>
+</p>
